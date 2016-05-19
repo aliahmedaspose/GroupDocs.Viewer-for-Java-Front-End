@@ -23,7 +23,7 @@ This application allows user to view document in Html and Image representation. 
 
 # Apply Licence
 
-Follow below steps if you have product license
+Follow below steps if you have product license.
 
 1. Open ViewerController.java.
 2. Set "_licensePath" variable to your license path. 
