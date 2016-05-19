@@ -13,14 +13,13 @@ This application allows user to view document in Html and Image representation. 
 * Any latest browsers (Firefox, Chrome ,IE9 or greater, Safari etc. )
 * GroupDocs.Viewer 3.0.0 for Java.
 
-# Installation
+# How to run application
 
-* Eclipse Mars.
-* Download the code, import as maven proejct in eclipse. 
-* Download *GroupDocs.Viewer 3.0.0 for Java*.
-* Update maven dependencies.
-* Run As maven; Goals "Jetty:run".
-* Goto browser and type "localhost:8080/action".
+1 Download the code, import as maven proejct in eclipse. 
+2 Download *GroupDocs.Viewer 3.0.0 for Java*.
+3 Update maven dependencies.
+4 Run As maven; Goals "Jetty:run".
+5 Goto browser and type "localhost:8080/action".
 
 # Apply Licence
 
